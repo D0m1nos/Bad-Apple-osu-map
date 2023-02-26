@@ -18,3 +18,4 @@ Other things to note:
 - You need to change danser's settings to make it work with your setup
 - [makeVideo.py](https://github.com/D0m1nos/Bad-Apple-osu-map/blob/main/makeVideo.py) must be placed in danser's directory while [trim.py](https://github.com/D0m1nos/Bad-Apple-osu-map/blob/main/trim.py) needs to be placed in danser's output folder
 - Creating the videos takes a looooong time, on my pc it took 40 minutes by running 3 instances of danser at the same time
+- I used [this](https://osu.ppy.sh/beatmapsets/18260#osu/65419) map as reference to create the different beatmap parts
