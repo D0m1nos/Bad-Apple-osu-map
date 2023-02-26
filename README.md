@@ -1,7 +1,7 @@
 # Bad Apple osu! map
 
 ![Thumbnail](thumbnail.png)
-Watch the video on [Youtube ![yt icon](https://www.youtube.com/s/desktop/cd64ce7e/img/favicon_32x32.png)](https://youtu.be/g4x5-5EV3K4)!
+Watch the video on [<img src='https://www.youtube.com/s/desktop/7449ebf7/img/favicon_32x32.png' width='16px'/> Youtube](https://youtu.be/g4x5-5EV3K4)!
 
 ## Steps i took to create the video:
 1. Split the original Bad Apple video into frames
